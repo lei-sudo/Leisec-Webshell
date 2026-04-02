@@ -1,6 +1,9 @@
 # Leisec-Webshell
 A stealthy PHP webshell with WAF bypass capabilities, file management, command execution, and a clean terminal-style interface.
 
+## Screenshot
+
+![Main Interface](screenshot.jpg)
 
 # Overview
 Leisec Shell is a PHP-based webshell designed for authorized penetration testing and server administration. It features a password-protected login system, session management, and multiple command execution methods to bypass common WAF restrictions.
